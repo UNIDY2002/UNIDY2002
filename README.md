@@ -1,7 +1,7 @@
 ## UNIDY2002
 
 Facts about me:
-- At Tsinghua University [MadSys Group](https://madsys.cs.tsinghua.edu.cn/), advised by [Prof. Yongwei Wu](https://madsys.cs.tsinghua.edu.cn/~yongweiwu/) and [Asst. Prof. Mingxing Zhang](https://madsys.cs.tsinghua.edu.cn/~zhangmx/)
+- At Tsinghua University [MadSys Group](https://madsys.cs.tsinghua.edu.cn/), advised by [Asst. Prof. Mingxing Zhang](https://madsys.cs.tsinghua.edu.cn/~zhangmx/)
 - Use C++, TypeScript and Rust
 - Author and maintainer of [THU Info APP](https://app.cs.tsinghua.edu.cn/) and [Saiblo](https://www.saiblo.net/)
 - GPG key ID [`6E7F2896C23107DB`](https://github.com/UNIDY2002.gpg)
